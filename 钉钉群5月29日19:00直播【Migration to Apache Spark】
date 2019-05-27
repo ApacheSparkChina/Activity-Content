@@ -1,0 +1,10 @@
+本周三19:00 钉钉群技术分享直播
+题目:Migration to Apache Spark
+摘要:Spark因其统一引擎、性能、易用性等特点备受青睐，将大数据处理引擎迁移到Spark已经成为一种趋势(比如将Hive迁移到SparkSQL)，很多大公司也正在实践。
+本次分享将围绕Hive迁移到SparkSQL进行展开，内容包括介绍大公司迁移流程、遇到的问题以及对Spark做的一些反馈优化。
+2019.05.29 19:00 -20:00 钉钉在线直播【Migration to Apache Spark】Spark + AI 北美峰会参会分享；
+主讲人 嵩林，阿里云EMR技术专家。从事Spark内核优化，对SparkCore/SprakSQL有深入了解，Spark Contributor。
+参与直播互动赢取惊喜福利！！！
+钉钉群号：23109202，企业群号：HPRX8117
+由于钉钉普通群无法继续扩容，辛苦大家尽快转移到企业群，申请加入Apache Spark中国技术交流社区 。
+原文链接：https://yq.aliyun.com/articles/703756?spm=a2c4e.11153959.0.0.34ba7507NDLUHK
