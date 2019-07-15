@@ -1,4 +1,8 @@
 本周三19:00 钉钉群技术分享直播
+
+直播回看链接：
+https://tianchi.aliyun.com/course/video?spm=5176.12282027.0.0.84d4379cr7lkPN&liveId=41034
+
 题目:Migration to Apache Spark
 摘要:Spark因其统一引擎、性能、易用性等特点备受青睐，将大数据处理引擎迁移到Spark已经成为一种趋势(比如将Hive迁移到SparkSQL)，很多大公司也正在实践。
 本次分享将围绕Hive迁移到SparkSQL进行展开，内容包括介绍大公司迁移流程、遇到的问题以及对Spark做的一些反馈优化。
