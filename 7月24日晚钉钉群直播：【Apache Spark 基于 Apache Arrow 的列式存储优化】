@@ -1,0 +1,14 @@
+钉钉群号：23109202，企业群号：HPRX8117
+
+直播间直达链接：（回看链接）
+https://tianchi.aliyun.com/course/live?spm=5176.12282027.0.0.5622379ccY33Rf&liveId=41070
+
+时间
+7月24日19:00
+
+主讲人：
+诚历，阿里巴巴计算平台事业部 EMR 技术专家，Apache Sentry PMC，Apache Commons Committer，目前从事开源大数据存储和优化方面的工作。
+
+简介：
+Apache Arrow 是一个基于内存的列式存储标准，旨在解决数据交换和传输过程中，序列化和反序列化带来的开销。
+目前，Apache Spark 社区的一些重要优化都在围绕 Apache Arrow 展开，本次分享会介绍 Apache Arrow 并分析通过 Arrow 将给 Spark 带来哪些特性。
