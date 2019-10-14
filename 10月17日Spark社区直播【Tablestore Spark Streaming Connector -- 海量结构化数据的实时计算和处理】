@@ -1,0 +1,18 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+直播主题：
+Tablestore Spark Streaming Connector -- 海量结构化数据的实时计算和处理】
+
+时间
+10月17日：19：00-20：00
+
+直播介绍：
+Tablestore是阿里云自研的云原生结构化大数据存储服务，本议题会详细介绍如何基于Tablestore的CDC技术，将大表内实时数据更新对接Spark Streaming来实现数据的实时计算和处理。最新版本的Connector会随着EMR下个版本的SDK一起开源，场景环节会结合阿里内部的业务介绍用户如何结合Tablestore和Spark来实现实时数据处理。
+
+主讲人：
+朱晓然 Tablestore存储服务技术专家
+
+原文链接：
+https://developer.aliyun.com/article/720775
