@@ -1,0 +1,21 @@
+钉钉群号：21784001
+团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+直播主题：
+Spark on Kubernetes & YARN
+
+时间
+11月14日：19：00-20：00
+
+直播介绍：
+以Kubernetes为代表的云原生技术越来越流行起来，spark是如何跑在Kubernetes之上来享受云原生技术的红利？
+Spark跑在Kubernetes之上和跑在Hadoop YARN上又有什么区别？以及Kubernetes 和YARN的差异点是什么。
+
+主讲人：
+何剑
+阿里巴巴高级技术专家，专注于Kubernetes容器云和大数据底层调度以及基础架构，
+负责阿里巴巴容器平台在线服务和离线计算任务混部。此前就职于Hortonworks, 是Hadoop 社区Committer和PMC成员
+
+原文链接：
+https://developer.aliyun.com/article/726688
