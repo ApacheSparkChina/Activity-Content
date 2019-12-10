@@ -1,0 +1,19 @@
+钉钉群号：21784001
+钉钉团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+直播主题：
+实时数仓建设以及典型场景应用
+
+时间
+2019年12月11日 19：00
+
+直播介绍：
+本次分享会介绍实时数仓的思路以及一些实践，包括SparkStreaming SQL引擎，
+以及对Delta/Kudu/Druid/阿里云多种存储组件的深度整合；同时会在这个基础上介绍一些典型案例应用
+
+主讲人：
+宋军，花名嵩林 阿里云EMR高级技术专家。从事Spark内核优化，对SparkCore/SprakSQL有深入了解，Spark Contributor
+
+原文链接：
+https://developer.aliyun.com/article/738547?groupCode=apachespark
