@@ -1,0 +1,19 @@
+钉钉群号：21784001
+钉钉团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+直播主题：
+使用Apache SuperSet和EMR Spark打造交互式的数据探索平台
+
+时间
+2020年1月9日：19：00-20：00
+
+直播介绍：
+本次分享主要介绍如何结合Apache SuperSet和EMR Spark，利用EMR Spark提供的JindoCube高级特性在SuperSet进行秒级响应，交互式的可视化数据探索。
+
+主讲人：
+李呈祥，花名司麟，阿里云智能EMR团队高级技术专家，Apache Hive Committer， Apache Flink Committer，目前主要专注于EMR产品中开源计算引擎的优化工作。
+
+
+原文链接：
+https://developer.aliyun.com/article/741814?spm=a2c6h.12873581.0.0.76df454dtrRV8H&groupCode=aliyunemr
