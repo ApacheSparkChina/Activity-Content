@@ -1,0 +1,20 @@
+钉钉群号：21784001
+钉钉团队群号：HPRX8117
+微信公众号：Apache Spark技术交流社区
+
+直播主题：
+Hadoop Job committer 的演化和发展
+
+时间
+2020.3.5（周四）19:00
+
+直播介绍：
+Job Committer是Mapreduce/Spark等分布式计算框架的重要组成部分，
+为分布式任务的写入提供一致性的保证，本次分享主要介绍Job Committer的演进历史，以及社区和EMR在S3/OSS等云存储上的最新进展。
+
+主讲人：
+李呈祥，花名司麟，阿里云智能EMR团队高级技术专家，Apache Hive Committer， Apache Flink Committer，目前主要专注于EMR产品中开源计算引擎的优化工作。
+
+
+原文链接：
+https://developer.aliyun.com/article/747658
