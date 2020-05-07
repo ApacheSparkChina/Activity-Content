@@ -1,0 +1,28 @@
+邀请你加入钉钉群聊Apache Spark中国技术交流社区，点击进入查看详情 
+https://qr.dingtalk.com/action/joingroup?code=v1,k1,X7S/0/QcrLMkK7QZ5sw2oTvoYW49u0g5dvGu7PW+sm4=&_dt_no_comment=1&origin=11
+
+微信公众号：Apache Spark技术交流社区
+简介：
+本次分享主要介绍如何利用Analytics Zoo和NIH胸部X光影像数据集，在Apache Spark集群上实现基于深度学习的胸腔疾病分类，为医生提供端到端的胸腔疾病AI诊疗辅助。
+有兴趣的同学，可以提前关注此开源项目：https://github.com/intel-analytics/analytics-zoo
+
+主题：
+用Analytics-Zoo实现基于深度学习的胸腔疾病AI诊疗辅助
+
+时间：
+2020.4.29（周三）19:00
+
+参与方式：
+扫描下方二维码加入钉钉群，群内直接观看
+
+或点击直播间链接：
+
+https://developer.aliyun.com/live/2719?spm=5176.8068049.0.0.27366d19wPA7FZ
+
+讲师简介：
+龚奇源
+博士，英特尔机器学习专家。从事多年数据隐私和机器学习研究，2017年加入英特尔，
+目前负责Analytics-Zoo中ClusterServing、Streaming、OpenVINO和推理优化等工作。
+
+原文链接：
+https://developer.aliyun.com/article/757710?groupCode=apachespark
